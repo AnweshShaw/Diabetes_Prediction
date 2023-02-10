@@ -5,7 +5,7 @@ Machine Learning models used:
 1) Random Forest Classifier (Highest Accuracy for Classification Problems)
 2) Gradient Boosting Classifier (Constant Accuracy)
 
-Accuracy of our Random Forest model:
+Accuracy of our Random Forest model (Varies due to shuffling of dataset):
 1) Minimum: 81.52 %
 2) Maximum: 88.31 %
 
