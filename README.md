@@ -7,7 +7,7 @@ Machine Learning models used:
 
 Accuracy of our Random Forest model:
 1) Minimum: 81.52 %
-2) Maximum: 87.11 %
+2) Maximum: 88.31 %
 
 Accuracy of our Gradient Boosting Classifier model: 85.714 %
 
