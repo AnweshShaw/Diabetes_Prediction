@@ -1,7 +1,7 @@
 # Diabetes_Prediction
 Predicting whether the patient is diabetic or not using Machine Learning models. We have trained 90% of the dataset and used the remaining 10% of the dataset for testing.
 
-Our model employs the Pima Indian diabetes dataset. We have trained our model on 8 parameters present in the dataset:
+Our model employs the Pima Indian diabetes dataset. We have trained our model on 8 parameters present in the dataset :
 1) Pregnancies
 2) Glucose
 3) Blood Pressure (in mm of Hg)
